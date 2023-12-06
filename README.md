@@ -1,7 +1,7 @@
 # Advent of Code
 
 ## Prerequisite
-aoc_helper package(https://github.com/Starwort/aoc_helper)
+[aoc_helper package](https://github.com/Starwort/aoc_helper)
 
 ## 2023
 https://adventofcode.com/2023
