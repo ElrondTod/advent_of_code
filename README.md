@@ -14,3 +14,4 @@ https://adventofcode.com/2023
 | [Day 5: If You Give A Seed A Fertilizer](2023/day_05.py) | ⭐⭐    |
 | [Day 6: Wait For It](2023/day_06.py)                     | ⭐⭐    |
 | [Day 7: Camel Cards](2023/day_07.py)                     | ⭐⭐    |
+| [Day 8: Haunted Wasteland](2023/day_08.py)               | ⭐⭐    |
