@@ -17,3 +17,5 @@ https://adventofcode.com/2023
 | [Day 8: Haunted Wasteland](2023/day_08.py)               | ⭐⭐    |
 | [Day 9: Mirage Maintenance](2023/day_09.py)              | ⭐⭐    |
 | [Day 10: Pipe Maze](2023/day_10.py)                      | ⭐⭐    |
+| [Day 11: Cosmic Expansion](2023/day_11.py)               | ⭐⭐    |
+| [Day 12: Hot Springs](2023/day_12.py)                    | ⭐⭐    |
