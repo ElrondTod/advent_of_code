@@ -19,3 +19,4 @@ https://adventofcode.com/2023
 | [Day 10: Pipe Maze](2023/day_10.py)                      | ⭐⭐    |
 | [Day 11: Cosmic Expansion](2023/day_11.py)               | ⭐⭐    |
 | [Day 12: Hot Springs](2023/day_12.py)                    | ⭐⭐    |
+| [Day 13: Point of Incidence](2023/day_13.py)             | ⭐⭐    |
