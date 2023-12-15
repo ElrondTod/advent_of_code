@@ -21,3 +21,4 @@ https://adventofcode.com/2023
 | [Day 12: Hot Springs](2023/day_12.py)                    | ⭐⭐    |
 | [Day 13: Point of Incidence](2023/day_13.py)             | ⭐⭐    |
 | [Day 14: Parabolic Reflector Dish](2023/day_14.py)       | ⭐⭐    |
+| [Day 15: Lens Library](2023/day_15.py)                   | ⭐⭐    |
